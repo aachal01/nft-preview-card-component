@@ -36,5 +36,5 @@ Through this project, I gained experience in:
 
 ## Live Demo
 
-Check out the live demo of the NFT preview card component [here](#).
+Check out the live demo of the NFT preview card component [here](https://aachal01.github.io/nft-preview-card-component/).
 
